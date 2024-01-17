@@ -1,0 +1,22 @@
+# data download
+dill
+opendatasets
+# notebook
+jupyter
+# data manipulation
+numpy
+scipy
+pandas
+# data representation
+tabulate
+seaborn
+matplotlib
+# machine learning
+xgboost
+catboost
+lightgbm
+scikit-learn
+#hyperparameter tuning
+optuna
+# editable installation in current directory
+-e .
